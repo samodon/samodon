@@ -4,6 +4,5 @@ My interest in computer science and software development began when I saw my fat
 
 🔭 I’m currently working on:
   - [**Cyber Gym**](https://github.com/samodon/WorkOutUpdatedUI) a gamified workout app powered by AI vision models to promote exercise.
-  - [**CLI Pomodoro Timer**](https://github.com/samodon/pomodoro_timer) a CLI tool useful for maintaing productiviity, especially with `vim` using the popular Pomodoro method.
 
 
